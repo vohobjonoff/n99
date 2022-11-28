@@ -1,0 +1,1 @@
+:root{--mainColor:#1e90ff;--white:#ffffff;--defaultBtnColor:red;--hoverBtnColor:#66D2CF}h3{color:var(--mainColor)}button{background-color:var(--defaultBtnColor)}button:hover{background-color:var(--hoverBtnColor)}
